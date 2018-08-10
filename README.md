@@ -1,2 +1,3 @@
-# data_struct
-data struct init
+# data struct
+
+- add link struct 
